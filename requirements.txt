@@ -1,0 +1,4 @@
+Flask==3.0.0
+  adafruit-circuitpython-bme280==2.6.25
+  RPi.GPIO==0.7.1
+  simple-pid==2.0.0
